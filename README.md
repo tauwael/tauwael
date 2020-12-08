@@ -2,8 +2,8 @@
 
 Belgian developer.
 
-🔭 Skilled in back-end development (PHP - Laravel, Flask - Python)
-😄 Vue.JS is the front-end framework of my choice. Tailwind has proven to be my favorite CSS framework.
+- 🔭 Skilled in back-end development (PHP - Laravel, Flask - Python)
+- 😄 Vue.JS is the front-end framework of my choice. Tailwind has proven to be my favorite CSS framework.
 
 
 
